@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="148756e9-bfea-4bf8-9ceb-3a1705e041d6" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/RealTimeProcessing/pom.xml" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache_maven\maven_repository" />
+        <option name="mavenHome" value="D:/apache_maven/apache_maven" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\apache_maven\apache_maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2JSF6DaQzs9fOzWL7kyb7cA60vP" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Desktop/Flink+Spark大型数仓/Spark-Flink-data-warehouse/项目代码/FlinkRealTimeV2.0&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;show.run.dashboard.notification&quot;: &quot;false&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;c6e190b284633c48e39e55049da3cce8&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\Flink实时用户日志分析\Flink-OnlineAnalysis\HTML" />
+      <recent name="C:\Users\admin\Desktop\Flink实时用户日志分析\Flink-OnlineAnalysis\Web\src\main\resources" />
+      <recent name="C:\Users\admin\Desktop\Flink实时用户日志分析\Flink-OnlineAnalysis\Web\src\main\java\com\alex\web\exception" />
+      <recent name="C:\Users\admin\Desktop\Flink实时用户日志分析\Flink-OnlineAnalysis\Web\src\main\java\com\alex\web\controller" />
+      <recent name="C:\Users\admin\Desktop\Flink实时用户日志分析\Flink-OnlineAnalysis\Web\src\main\java\com\alex\web\config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.StartFlinkKafkaServer">
+    <configuration name="CreateKafkaMsg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.mock.CreateKafkaMsg" />
+      <module name="RealTimeProcessing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alex.mock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateTextMsg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.mock.CreateTextMsg" />
+      <module name="RealTimeProcessing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alex.mock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaUtils (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.mock.KafkaUtils" />
+      <module name="RealTimeProcessing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alex.mock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.mock.KafkaUtils" />
+      <module name="RealTimeProcessing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alex.mock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartFlinkKafkaServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.task.StartFlinkKafkaServer" />
+      <module name="RealTimeProcessing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alex.task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alex.web.WebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebUiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="WebUI" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.webui.WebUiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.StartFlinkKafkaServer" />
+        <item itemvalue="应用程序.CreateKafkaMsg" />
+        <item itemvalue="应用程序.KafkaUtils (1)" />
+        <item itemvalue="应用程序.KafkaUtils" />
+        <item itemvalue="应用程序.CreateTextMsg" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="148756e9-bfea-4bf8-9ceb-3a1705e041d6" name="变更" comment="" />
+      <created>1672063399361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672063399361</updated>
+      <workItem from="1672063400511" duration="38000" />
+      <workItem from="1672063449633" duration="5104000" />
+      <workItem from="1672068577739" duration="840000" />
+      <workItem from="1672105882554" duration="10305000" />
+      <workItem from="1672136803687" duration="989000" />
+      <workItem from="1672137823214" duration="5000" />
+      <workItem from="1672144189632" duration="5440000" />
+      <workItem from="1672149652376" duration="1198000" />
+      <workItem from="1672151096067" duration="1564000" />
+      <workItem from="1672193503770" duration="2129000" />
+      <workItem from="1672202056686" duration="19213000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
