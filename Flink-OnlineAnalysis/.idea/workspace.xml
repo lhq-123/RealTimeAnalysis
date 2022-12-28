@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="148756e9-bfea-4bf8-9ceb-3a1705e041d6" name="变更" comment="" />
+    <list default="true" id="148756e9-bfea-4bf8-9ceb-3a1705e041d6" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +19,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/RealTimeProcessing/pom.xml" root0="SKIP_INSPECTION" />
@@ -34,6 +40,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2JSF6DaQzs9fOzWL7kyb7cA60vP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -47,7 +54,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Desktop/Flink+Spark大型数仓/Spark-Flink-data-warehouse/项目代码/FlinkRealTimeV2.0&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Desktop/Flink实时用户日志分析/RealTimeAnalysis/Flink-OnlineAnalysis&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
     &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
@@ -176,10 +183,23 @@
       <workItem from="1672151096067" duration="1564000" />
       <workItem from="1672193503770" duration="2129000" />
       <workItem from="1672202056686" duration="19213000" />
+      <workItem from="1672232995575" duration="67000" />
+      <workItem from="1672236426765" duration="1612000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
