@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="148756e9-bfea-4bf8-9ceb-3a1705e041d6" name="变更" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/catalina-gateway.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/catalina-gateway.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,6 +186,7 @@
       <workItem from="1672232995575" duration="67000" />
       <workItem from="1672236426765" duration="1612000" />
       <workItem from="1672301618106" duration="614000" />
+      <workItem from="1674131957818" duration="981000" />
     </task>
     <servers />
   </component>
